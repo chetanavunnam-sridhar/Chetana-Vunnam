@@ -1,0 +1,5 @@
+{
+  "name": "Secure Exam Portal",
+  "description": "A secure examination platform with tab-switch detection, automated proctoring camera, and student performance analysis.",
+  "requestFramePermissions": ["camera"]
+}
